@@ -13,11 +13,12 @@ A command-line calculator built in Go with continuous calculation mode and histo
 
 ## Installation
 ```bash
-git clone https://github.com/Savoxero/GolangLearningLog/Projects/Calculator.git
+git clone https://github.com/Savoxero/Woopingcalculator.git
 next step:
 locate the Calculator directory and run:
-go run main.go/go run all
+go run WoopCalc.go/go run all
 ```
+
 
 ## Usage
 ```
